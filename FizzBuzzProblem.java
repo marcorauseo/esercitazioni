@@ -9,8 +9,6 @@ public class FizzBuzzProblem {
     stampi FizzBuzz al posto di ogni numero multiplo di 5 e di 3
     */
 
-    ///blablabla
-
     public static <k, v> void main(String[] args) {
         List<Integer> list = new ArrayList<Integer>();
         int n=15;
